@@ -1,2 +1,2 @@
 # fotodoesporte.github.io
-Projeto inicial do FotodoEsporte
+Projeto inicial do Foto_do_Esporte
